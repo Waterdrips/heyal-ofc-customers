@@ -1,7 +1,7 @@
 curators:
  - Waterdrips
  
- redirect: https://raw.githubusercontent.com/Waterdrips/heyal-ofc-customers/master/DEREK-OVERRIDE.yml
+ redirect: https://raw.githubusercontent.com/Waterdrips/heyal-ofc-customers/master/.DEREK-OVERRIDE.yml
 
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
 
